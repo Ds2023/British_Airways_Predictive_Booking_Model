@@ -18,4 +18,5 @@ With your predictive model, it is important to interpret the results in order to
 
 ## Streamlit Dashboard
 
-To predict the chances of booking or not
+To predict the chances of booking or not.
+Interface: Interactive dashboard.
