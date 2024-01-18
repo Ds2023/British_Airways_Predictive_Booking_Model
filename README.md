@@ -1,3 +1,5 @@
+# Proactive Customer Engagement: Building a Predictive Model for Holiday Bookings
+
 ## Background
 
 In today's dynamic market, customers have unprecedented access to information, reshaping the traditional buying cycle. Airlines need to be proactive in acquiring customers, leveraging data and predictive models. The task at hand involves manipulating and preparing customer booking data to build a high-quality predictive model.
