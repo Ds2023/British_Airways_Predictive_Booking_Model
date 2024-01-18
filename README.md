@@ -1,22 +1,45 @@
-# Task 1
+## Background
 
-- Sentiment Analysis
+In today's dynamic market, customers have unprecedented access to information, reshaping the traditional buying cycle. Airlines need to be proactive in acquiring customers, leveraging data and predictive models. The task at hand involves manipulating and preparing customer booking data to build a high-quality predictive model.
 
-- Technologies
-- Python
-- Plotly
-- Machine Learning
-- EDA
+## Objective
+The primary goal is to predict customer bookings before they embark on their holidays using a predictive model. This involves exploring, manipulating, and preparing the provided dataset to ensure the highest quality for training machine learning algorithms.
 
-## Task 2
+1. Explore and Prepare the Dataset
+   
+- Perform eda to learn more about the data
+- Explore potential new features to enhance the predictive model.
 
-Customers are more empowered than ever because they have access to a wealth of information at their fingertips. This is one of the reasons the buying cycle is very different to what it used to be. Today, if you’re hoping that a customer purchases your flights or holidays as they come into the airport, you’ve already lost! Being reactive in this situation is not ideal; airlines must be proactive in order to acquire customers before they embark on their holiday.
+2. Train a Machine Learning Model
+   
+- Select an algorithm suitable for outputting information about variable contributions (e.g., RandomForest).
+- Train the machine learning model using the prepared dataset.
 
-This is possible with the use of data and predictive models. The most important factor with a predictive model is the quality of the data you use to train the machine learning algorithms. For this task, you must manipulate and prepare the provided customer booking data so that you can build a high-quality predictive model.
+3. Evaluate Model and Present Findings
 
-With your predictive model, it is important to interpret the results in order to understand how “predictive” the data really was and whether we can feasibly use it to predict the target outcome (customers buying holidays). Therefore, you should evaluate the model's performance and output how each variable contributes to the predictive model's power.
+- Conduct cross-validation to assess model performance.
+- Output relevant evaluation metrics to gauge predictive accuracy.
+- Create visualizations to interpret variable contributions.
+- Summarize key findings in a single slide for management review.
 
-## Streamlit Dashboard
+## Deliverables
 
-To predict the chances of booking or not.
-Interface: Interactive dashboard.
+1.Exploratory Data Analysis (EDA) Report:
+
+- Summary of dataset exploration.
+- Identification of new features and rationale.
+
+2.Predictive Model Implementation:
+
+- Utilize an algorithm that provides insights into variable contributions (e.g., RandomForest).
+
+3.Model Evaluation:
+
+- Cross-validation results.
+- Key evaluation metrics.
+- Hyperparameter tuning.
+  
+4.Visualization:
+
+- Visual representation of how each variable contributes to the predictive model.
+- Recommendations based on the model's predictive power
