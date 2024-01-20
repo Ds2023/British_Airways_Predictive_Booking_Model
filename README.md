@@ -45,3 +45,7 @@ The primary goal is to predict customer bookings before they embark on their hol
 
 - Visual representation of how each variable contributes to the predictive model.
 - Recommendations based on the model's predictive power
+
+### Feature Importances from the Model
+
+<img src="Importances_df.png">
